@@ -1,0 +1,3 @@
+experiment,roc_auc,f1,notes
+leakage_free_autoencoder,0.9997,0.9965,"5-seed reported project result"
+raw_telemetry_ablation,,0.9966,"Reported raw-feature ablation"
